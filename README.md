@@ -1,0 +1,1 @@
+This repository demonstrates a problem with the CSS `calc()` function when used with percentage and viewport units.  The `bug.css` file shows the problematic code, and `bugSolution.css` offers a potential workaround.  The issue is seen in some browsers where the calculation does not produce the expected result, leading to layout inconsistencies.
